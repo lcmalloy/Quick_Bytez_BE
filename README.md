@@ -5,7 +5,7 @@ Quick Bytez API Routes using DJango and Python
 ## API Routes
 
 GET, POST
-/specials, /testimonials
+### /specials, /testimonials
 
 GET, PUT, DELETE
-/specials/[id], /testimonials/[name]
+### /specials/[id], /testimonials/[name]
